@@ -38,20 +38,32 @@
     "layout/json_cv"
 ;
 
+.about-wrap {
+  max-width: 900px;
+}
+
 .about-intro {
-  margin-bottom: 1.5rem;
+  margin: 0 0 1.5rem 0;
   text-align: center;
 }
 
 .about-image {
-  max-width: 320px;
   width: 100%;
+  max-width: 900px;
   height: auto;
-  display: inline-block;
+  display: block;
+  margin: 0 auto;
   border-radius: 12px;
 }
 
-/* Justify About Me paragraphs */
+.about-heading {
+  margin: 0 0 1.25rem 0;
+}
+
+.about-text {
+  max-width: 900px;
+}
+
 .about-text p {
   text-align: justify;
 }

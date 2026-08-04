@@ -26,7 +26,7 @@ CUSTOM_STOPWORDS = {
     "heat", "event", "events", "countries", "country", "due", "levels", "early", "pre","post", 
     "region", "regions",  "episode", "episodes","findings", "find", "finds", "finding",
     "plain", "monsoon", "indian", "pakistan", "average","presented", 'compared', "related", "transfer",
-    "year", "march", "april", "daily", "record", "recent", "first","including", "made", "plains"
+    "year", "march", "april", "daily", "record", "recent", "first","including", "made", "plains",
     "large", "strong", "maximum", "level", "times", "role", "resulting", "analyse"
 }
 
@@ -83,21 +83,22 @@ def main():
     stopwords.update(CUSTOM_STOPWORDS)
 
     wordcloud = WordCloud(
-        width=1400,
-        height=900,
+        width=2400,
+        height=1400,
         background_color="white",
         stopwords=stopwords,
         collocations=False,
-        max_words=120,
+        max_words=140,
         colormap="viridis",
-        prefer_horizontal=0.9
+        prefer_horizontal=0.9,
+        scale=2
     ).generate(combined_text)
 
-    plt.figure(figsize=(14, 9))
+    plt.figure(figsize=(16, 9))
     plt.imshow(wordcloud, interpolation="bilinear")
     plt.axis("off")
     plt.tight_layout(pad=0)
-    plt.savefig(str(OUTPUT_IMAGE), dpi=220, bbox_inches="tight", facecolor="white")
+    plt.savefig(str(OUTPUT_IMAGE), dpi=600, bbox_inches="tight", facecolor="white")
     plt.close()
 
     print(f"Saved word cloud: {OUTPUT_IMAGE}")
