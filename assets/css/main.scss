@@ -37,3 +37,21 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+.about-intro {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.about-image {
+  max-width: 320px;
+  width: 100%;
+  height: auto;
+  display: inline-block;
+  border-radius: 12px;
+}
+
+/* Justify About Me paragraphs */
+.about-text p {
+  text-align: justify;
+}
