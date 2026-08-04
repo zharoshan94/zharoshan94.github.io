@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Dr. Roshan Jha"
 title_separator          : "-"
-name                     : &name "Dr. Roshan Jha"
-description              : &description "Dr. Roshan Jha's academic portfolio. Postdoctoral Researcher"
+name                     : &name "Roshan Jha"
+description              : &description "Roshan Jha's academic portfolio. Postdoctoral Researcher"
 url                      : "https://zharoshan94.github.io" # Replace 'zharoshan94' with your actual GitHub username if different
 baseurl                  : "" 
 repository               : "zharoshan94/zharoshan94.github.io" # Replace with your actual GitHub username
@@ -21,16 +21,16 @@ repository               : "zharoshan94/zharoshan94.github.io" # Replace with yo
 author:
   # Biographic information
   avatar           : "profile.png" # Place a professional photo named 'profile.png' in the 'images' folder
-  name             : "Roshan Jha, PhD"
-  pronouns         : "he/him"  
-  bio              : "Postdoctoral Research Fellow specializing in atmospheric dynamics, statistical modeling, and climate extremes."
+  name             : "Roshan Jha"
+  # pronouns         : "he/him"  
+  bio              : "Postdoctoral Research Fellow"
   location         : "United Kingdom"
   employer         : "University of St Andrews"
   uri              : "https://zharoshan94.github.io" 
   email            : "zharoshan94@gmail.com" 
 
   # Academic websites
-  academia         : https://www.st-andrews.ac.uk/earth-sciences/people/rj90/
+  academic site    : https://www.st-andrews.ac.uk/earth-sciences/people/rj90/
   arxiv            : 
   googlescholar    : https://scholar.google.com/citations?user=Cc8r3JMAAAAJ&hl=en
   inspire-hep      : 
