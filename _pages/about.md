@@ -18,26 +18,26 @@ redirect_from:
       at the University of St Andrews, United Kingdom.
     </p>
 
-  <p>
-    I earned my <strong>PhD in Climate Science<strong> from the
-    <a href="https://www.climate.iitb.ac.in/" target="_blank" rel="noopener noreferrer">
-    Center for Climate Studies</a> at the Indian Institute of Technology (IIT) Bombay,
-    supported by the <strong>DAAD In-Region Scholarship</strong>. Prior to this, I completed my
-    <strong>Masters in Water Resources Engineering</strong> from the Department of
-    Civil Engineering at IIT Bombay, also as a <strong>DAAD Regional Scholar</strong>,
-    and earned my <strong>Bachelors in Civil Engineering</strong> from the University
-    of Kerala under the <strong>Nepal Aid Scholarship</strong> from the Indian Government.
-    My academic journey reflects a progression in scale and complexity – starting from
-    foundational civil engineering, transitioning into hydrology and water resource
-    management, and ultimately expanding into global climate science to understand the
-    factors driving hydroclimatic extremes under climate change.
-  </p>
+    <p>
+      I earned my <strong>PhD in Climate Science</strong> from the
+      <a href="https://www.climate.iitb.ac.in/" target="_blank" rel="noopener noreferrer">
+      Centre for Climate Studies</a> at the Indian Institute of Technology (IIT) Bombay,
+      supported by the <strong>DAAD In-Region Scholarship</strong>. Prior to this, I completed my
+      <strong>Masters in Water Resources Engineering</strong> from the Department of
+      Civil Engineering at IIT Bombay, also as a <strong>DAAD Regional Scholar</strong>,
+      and earned my <strong>Bachelors in Civil Engineering</strong> from the University
+      of Kerala under the <strong>Nepal Aid Scholarship</strong> from the Indian Government.
+      My academic journey reflects a progression in scale and complexity – starting from
+      foundational civil engineering, transitioning into hydrology and water resource
+      management, and ultimately expanding into global climate science to understand the
+      factors driving hydroclimatic extremes under climate change.
+    </p>
   </div>
 
   <div class="about-intro">
     <img src="/images/abstract_wordcloud.png"
          alt="Word cloud from abstracts of selected papers"
          class="about-image">
-    <p class="about-caption">*Generated from abstracts of papers*</p>
+    <p class="about-caption"><em>Generated from abstracts of papers</em></p>
   </div>
 </div>
