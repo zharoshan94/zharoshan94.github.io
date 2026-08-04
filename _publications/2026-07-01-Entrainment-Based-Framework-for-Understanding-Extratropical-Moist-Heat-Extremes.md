@@ -3,9 +3,14 @@ title: "Entrainment-Based Framework for Understanding Extratropical Moist Heat E
 collection: publications
 permalink: /publication/2026-07-01-Entrainment-Based-Framework-for-Understanding-Extratropical-Moist-Heat-Extremes
 date: 2026-07-01
-venue: 'Geophysical Research Letters'
+venue: "Geophysical Research Letters"
+volume: "53"
+pages: "e2026GL122678"
 category: manuscripts
-paperurl: '/doi/pdf/10.1029/2026GL122678 https://onlinelibrary.wiley.com/doi/abs/10.1029/2026GL122678 https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122678'
-citation: ' R. Jha,  M. Byrne, &quot;Entrainment-Based Framework for Understanding Extratropical Moist Heat Extremes.&quot; Geophysical Research Letters, 2026.'
+doi: "10.1029/2026GL122678"
+paperurl: "https://doi.org/10.1029/2026GL122678"
+authors_md: "**Jha, R.** and Byrne, M. P."
+citation: "Jha, R. and Byrne, M. P.: &quot;Entrainment-Based Framework for Understanding Extratropical Moist Heat Extremes,&quot; Geophysical Research Letters, 53, e2026GL122678."
+citation_md: "**Jha, R.** and Byrne, M. P.: [Entrainment-Based Framework for Understanding Extratropical Moist Heat Extremes](https://doi.org/10.1029/2026GL122678), *Geophysical Research Letters*, 53, e2026GL122678."
 ---
-[Access paper here](/doi/pdf/10.1029/2026GL122678 https://onlinelibrary.wiley.com/doi/abs/10.1029/2026GL122678 https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122678){:target="_blank"}
+**Jha, R.** and Byrne, M. P.: [Entrainment-Based Framework for Understanding Extratropical Moist Heat Extremes](https://doi.org/10.1029/2026GL122678), *Geophysical Research Letters*, 53, e2026GL122678.

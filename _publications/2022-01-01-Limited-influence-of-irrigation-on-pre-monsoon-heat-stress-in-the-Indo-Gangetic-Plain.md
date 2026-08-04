@@ -3,8 +3,14 @@ title: "Limited influence of irrigation on pre-monsoon heat stress in the Indo-G
 collection: publications
 permalink: /publication/2022-01-01-Limited-influence-of-irrigation-on-pre-monsoon-heat-stress-in-the-Indo-Gangetic-Plain
 date: 2022-01-01
-venue: 'Nature Communications'
+venue: "Nature Communications"
+volume: "13"
+pages: "1-10"
 category: manuscripts
-citation: ' Roshan Jha,  Arpita Mondal,  Anjana Devanand,  M. Roxy,  Subimal Ghosh, &quot;Limited influence of irrigation on pre-monsoon heat stress in the Indo-Gangetic Plain.&quot; Nature Communications, 2022.'
+doi: "10.1038/s41467-022-31962-5"
+paperurl: "https://doi.org/10.1038/s41467-022-31962-5"
+authors_md: "**Jha, R.**, Mondal, A., Devanand, A., Roxy, M. K. and Ghosh, S."
+citation: "Jha, R., Mondal, A., Devanand, A., Roxy, M. K. and Ghosh, S.: &quot;Limited influence of irrigation on pre-monsoon heat stress in the Indo-Gangetic Plain,&quot; Nature Communications, 13, 1-10."
+citation_md: "**Jha, R.**, Mondal, A., Devanand, A., Roxy, M. K. and Ghosh, S.: [Limited influence of irrigation on pre-monsoon heat stress in the Indo-Gangetic Plain](https://doi.org/10.1038/s41467-022-31962-5), *Nature Communications*, 13, 1-10."
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Limited+influence+of+irrigation+on+pre+monsoon+heat+stress+in+the+Indo+Gangetic+Plain){:target="_blank"} for full citation
+**Jha, R.**, Mondal, A., Devanand, A., Roxy, M. K. and Ghosh, S.: [Limited influence of irrigation on pre-monsoon heat stress in the Indo-Gangetic Plain](https://doi.org/10.1038/s41467-022-31962-5), *Nature Communications*, 13, 1-10.

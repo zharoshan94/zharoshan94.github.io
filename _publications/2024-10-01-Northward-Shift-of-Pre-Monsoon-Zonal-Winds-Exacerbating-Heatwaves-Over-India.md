@@ -3,9 +3,14 @@ title: "Northward Shift of Pre-Monsoon Zonal Winds Exacerbating Heatwaves Over I
 collection: publications
 permalink: /publication/2024-10-01-Northward-Shift-of-Pre-Monsoon-Zonal-Winds-Exacerbating-Heatwaves-Over-India
 date: 2024-10-01
-venue: 'Geophysical Research Letters'
+venue: "Geophysical Research Letters"
+volume: "51"
+pages: "e2024GL110486"
 category: manuscripts
-paperurl: '/doi/pdf/10.1029/2024GL110486 https://onlinelibrary.wiley.com/doi/abs/10.1029/2024GL110486 https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL110486'
-citation: ' R. Jha,  A. Mondal,  S. Ghosh,  R. Murtugudde, &quot;Northward Shift of Pre-Monsoon Zonal Winds Exacerbating Heatwaves Over India.&quot; Geophysical Research Letters, 2024.'
+doi: "10.1029/2024GL110486"
+paperurl: "https://doi.org/10.1029/2024GL110486"
+authors_md: "**Jha, R.**, Mondal, A., Ghosh, S. and Murtugudde, R."
+citation: "Jha, R., Mondal, A., Ghosh, S. and Murtugudde, R.: &quot;Northward Shift of Pre-Monsoon Zonal Winds Exacerbating Heatwaves Over India,&quot; Geophysical Research Letters, 51, e2024GL110486."
+citation_md: "**Jha, R.**, Mondal, A., Ghosh, S. and Murtugudde, R.: [Northward Shift of Pre-Monsoon Zonal Winds Exacerbating Heatwaves Over India](https://doi.org/10.1029/2024GL110486), *Geophysical Research Letters*, 51, e2024GL110486."
 ---
-[Access paper here](/doi/pdf/10.1029/2024GL110486 https://onlinelibrary.wiley.com/doi/abs/10.1029/2024GL110486 https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL110486){:target="_blank"}
+**Jha, R.**, Mondal, A., Ghosh, S. and Murtugudde, R.: [Northward Shift of Pre-Monsoon Zonal Winds Exacerbating Heatwaves Over India](https://doi.org/10.1029/2024GL110486), *Geophysical Research Letters*, 51, e2024GL110486.

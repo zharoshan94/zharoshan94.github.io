@@ -6,31 +6,33 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">
+    You can also find my articles on
+    <a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener noreferrer">my Google Scholar profile</a>.
+  </div>
 {% endif %}
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
+{% for category in site.publication_category %}
+  {% assign cat_key = category[0] %}
+  {% assign cat_title = category[1].title %}
+  {% assign cat_posts = site.publications | where: "category", cat_key | sort: "date" | reverse %}
+
+  {% if cat_posts.size > 0 %}
+    <h2>{{ cat_title }}</h2>
+
+    {% assign pubs_by_year = cat_posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+
+    {% for year in pubs_by_year %}
+      <h3>{{ year.name }}</h3>
+      <ul>
+        {% for post in year.items %}
+          <li>
+            {{ post.citation_md | markdownify | remove: '<p>' | remove: '</p>' }}
+          </li>
+        {% endfor %}
+      </ul>
     {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+  {% endif %}
+{% endfor %}

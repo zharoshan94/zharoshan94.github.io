@@ -3,9 +3,14 @@ title: "Contrasting Drivers of Consecutive Pre-Monsoon South Asian Heatwaves in 
 collection: publications
 permalink: /publication/2025-04-01-Contrasting-Drivers-of-Consecutive-Pre-Monsoon-South-Asian-Heatwaves-in-2022-Waveguide-Interaction-and-Soil-Moisture-Depletion
 date: 2025-04-01
-venue: 'Journal of Geophysical Research: Atmospheres'
+venue: "Journal of Geophysical Research: Atmospheres"
+volume: "130"
+pages: "e2024JD042376"
 category: manuscripts
-paperurl: '/doi/pdf/10.1029/2024JD042376 https://onlinelibrary.wiley.com/doi/abs/10.1029/2024JD042376 https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JD042376'
-citation: ' R. Jha,  V. Wirth,  C. Polster,  A. Mondal,  S. Ghosh, &quot;Contrasting Drivers of Consecutive Pre-Monsoon South Asian Heatwaves in 2022: Waveguide Interaction and Soil Moisture Depletion.&quot; Journal of Geophysical Research: Atmospheres, 2025.'
+doi: "10.1029/2024JD042376"
+paperurl: "https://doi.org/10.1029/2024JD042376"
+authors_md: "**Jha, R.**, Wirth, V., Polster, C., Mondal, A. and Ghosh, S."
+citation: "Jha, R., Wirth, V., Polster, C., Mondal, A. and Ghosh, S.: &quot;Contrasting Drivers of Consecutive Pre-Monsoon South Asian Heatwaves in 2022: Waveguide Interaction and Soil Moisture Depletion,&quot; Journal of Geophysical Research: Atmospheres, 130, e2024JD042376."
+citation_md: "**Jha, R.**, Wirth, V., Polster, C., Mondal, A. and Ghosh, S.: [Contrasting Drivers of Consecutive Pre-Monsoon South Asian Heatwaves in 2022: Waveguide Interaction and Soil Moisture Depletion](https://doi.org/10.1029/2024JD042376), *Journal of Geophysical Research: Atmospheres*, 130, e2024JD042376."
 ---
-[Access paper here](/doi/pdf/10.1029/2024JD042376 https://onlinelibrary.wiley.com/doi/abs/10.1029/2024JD042376 https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JD042376){:target="_blank"}
+**Jha, R.**, Wirth, V., Polster, C., Mondal, A. and Ghosh, S.: [Contrasting Drivers of Consecutive Pre-Monsoon South Asian Heatwaves in 2022: Waveguide Interaction and Soil Moisture Depletion](https://doi.org/10.1029/2024JD042376), *Journal of Geophysical Research: Atmospheres*, 130, e2024JD042376.
