@@ -37,13 +37,20 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
-
 .about-wrap {
   max-width: 900px;
 }
 
+.about-text {
+  max-width: 900px;
+  margin-bottom: 1.5rem;
+}
+
+.about-text p {
+  text-align: justify;
+}
+
 .about-intro {
-  margin: 0 0 1.5rem 0;
   text-align: center;
 }
 
@@ -56,14 +63,10 @@
   border-radius: 12px;
 }
 
-.about-heading {
-  margin: 0 0 1.25rem 0;
-}
-
-.about-text {
-  max-width: 900px;
-}
-
-.about-text p {
-  text-align: justify;
+.about-caption {
+  margin-top: 0.35rem;
+  font-size: 0.78rem;
+  font-style: italic;
+  text-align: right;
+  color: #666;
 }
