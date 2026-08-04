@@ -8,7 +8,7 @@ date: 2026-09-01
 location: "St Andrews, UK"
 ---
 
-<div style="text-align: right;" markdown="1">
+<div style="text-align: justify;" markdown="1">
 
 I contribute to the [ES1001 Understanding Planet Earth](https://www.st-andrews.ac.uk/subjects/modules/catalogue/?meta_modulecode=ES1001) course, delivering lectures specifically focused on the basics of Earth Atmospheric Science.
 

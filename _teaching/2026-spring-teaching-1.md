@@ -4,11 +4,11 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/special-topics-climate-science
 venue: "Department of Earth and Environmental Science, University of St Andrews"
-date: 2024-03-01
+date: 2026-03-01
 location: "St Andrews, UK"
 ---
 
-<div style="text-align: right;" markdown="1">
+<div style="text-align: justify;" markdown="1">
 
 I delivered a specialized two-week module as part of the [ES4020 Special Topics in Climate Science](https://www.st-andrews.ac.uk/subjects/modules/catalogue/?meta_modulecode=ES4020) course.
 
