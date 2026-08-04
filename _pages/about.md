@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 <div class="about-intro">
-  <img src="/images/about-photo.jpg" alt="Roshan Jha" class="about-image">
+  <img src="/images/abstract_wordcloud.png"
+       alt="From the abstract of Journal Articles"
+       class="about-image">
 </div>
 
 <div class="about-text">
