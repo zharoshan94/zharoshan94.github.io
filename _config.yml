@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Dr. Roshan Jha"
+title                    : "Roshan Jha"
 title_separator          : "-"
 name                     : &name "Roshan Jha"
 description              : &description "Roshan Jha's academic portfolio. Postdoctoral Researcher"
@@ -30,7 +30,7 @@ author:
   email            : "zharoshan94@gmail.com" 
 
   # Academic websites
-  academic site    : https://www.st-andrews.ac.uk/earth-sciences/people/rj90/
+  academic         : https://www.st-andrews.ac.uk/earth-sciences/people/rj90/
   arxiv            : 
   googlescholar    : https://scholar.google.com/citations?user=Cc8r3JMAAAAJ&hl=en
   inspire-hep      : 
