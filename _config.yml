@@ -21,7 +21,7 @@ repository               : "zharoshan94/zharoshan94.github.io" # Replace with yo
 author:
   # Biographic information
   avatar           : "profile.png" # Place a professional photo named 'profile.png' in the 'images' folder
-  name             : "Roshan Jha"
+  name             : "Dr. Roshan Jha"
   # pronouns         : "he/him"  
   bio              : "Postdoctoral Research Fellow"
   location         : "United Kingdom"
@@ -30,7 +30,7 @@ author:
   email            : "zharoshan94@gmail.com" 
 
   # Academic websites
-  academic         : https://www.st-andrews.ac.uk/earth-sciences/people/rj90/
+  academic         : https://www.st-andrews.ac.uk/earth-sciences/
   arxiv            : 
   googlescholar    : https://scholar.google.com/citations?user=Cc8r3JMAAAAJ&hl=en
   inspire-hep      : 
