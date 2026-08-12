@@ -1,11 +1,13 @@
 ---
 title: "Understanding Planet Earth (ES1001)"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/understanding-planet-earth
-venue: "Department of Earth and Environmental Science, University of St Andrews"
+permalink: /teaching/understanding-planet-earth/
 date: 2026-09-01
-location: "St Andrews, UK"
+academic_year: "2026–27"
+semester: "Martinmas (Semester 1)"
+type: "Undergraduate course"
+venue: "Department of Earth and Environmental Science, University of St Andrews"
+share: false
 ---
 
 <div style="text-align: justify;" markdown="1">

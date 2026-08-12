@@ -1,11 +1,13 @@
 ---
 title: "Special Topics in Climate Science (ES4020)"
 collection: teaching
+permalink: /teaching/special-topics-climate-science/
+date: 2026-01-01
+academic_year: "2025–26"
+semester: "Candlemas (Semester 2)"
 type: "Undergraduate course"
-permalink: /teaching/special-topics-climate-science
 venue: "Department of Earth and Environmental Science, University of St Andrews"
-date: 2026-03-01
-location: "St Andrews, UK"
+share: false
 ---
 
 <div style="text-align: justify;" markdown="1">
