@@ -216,6 +216,90 @@
   border-radius: 16px;
 }
 
+.publications-page {
+  width: 100%;
+}
+
+.publication-category {
+  margin-bottom: 1.75rem;
+}
+
+.publication-category > h2 {
+  margin: 0 0 0.75rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid var(--global-border-color);
+  font-size: 1.25em;
+}
+
+.publication-year-group {
+  margin-bottom: 0.75rem;
+}
+
+.publication-year-group h3 {
+  margin: 0 0 0.45rem;
+  font-size: 1rem;
+}
+
+.publication-year-group ul {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.publication-year-group li {
+  margin: 0 0 0.55rem;
+  line-height: 1.65;
+}
+
+.teaching-page {
+  width: 100%;
+}
+
+.teaching-year-group {
+  margin-bottom: 1.5rem;
+}
+
+.teaching-year-group h2 {
+  margin: 0 0 0.6rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid var(--global-border-color);
+  font-size: 1.25em;
+}
+
+.teaching-year-group ul {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.teaching-year-group li {
+  margin: 0 0 0.5rem;
+  line-height: 1.65;
+}
+
+.news-media-page {
+  width: 100%;
+}
+
+.news-media-year-group {
+  margin-bottom: 1.5rem;
+}
+
+.news-media-year-group h2 {
+  margin: 0 0 0.6rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid var(--global-border-color);
+  font-size: 1.25em;
+}
+
+.news-media-list {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.news-media-list li {
+  margin: 0 0 0.5rem;
+  line-height: 1.65;
+}
+
 /* Website colour theme */
 
 /* White main page background */

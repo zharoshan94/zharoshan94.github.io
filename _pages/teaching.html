@@ -7,27 +7,31 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign teaching_items = site.teaching | sort: "date" | reverse %}
-{% assign teaching_by_year = teaching_items | group_by: "academic_year" %}
+<div class="teaching-page">
+  {% assign teaching_items = site.teaching | sort: "date" | reverse %}
+  {% assign teaching_by_year = teaching_items | group_by: "academic_year" %}
 
-{% for year in teaching_by_year %}
-  <h2>{{ year.name }}</h2>
+  {% for year in teaching_by_year %}
+    <section class="teaching-year-group">
+      <h2>{{ year.name }}</h2>
 
-  <ul>
-    {% for item in year.items %}
-      <li>
-        {% if item.url %}
-          <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
-        {% else %}
-          {{ item.title }}
-        {% endif %}
+      <ul>
+        {% for item in year.items %}
+          <li>
+            {% if item.url %}
+              <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+            {% else %}
+              {{ item.title }}
+            {% endif %}
 
-        {% if item.semester %} — {{ item.semester }}{% endif %}
+            {% if item.semester %} — {{ item.semester }}{% endif %}
 
-        {% if item.type %}, {{ item.type }}{% endif %}
+            {% if item.type %}, {{ item.type }}{% endif %}
 
-        {% if item.venue %}, <em>{{ item.venue }}</em>{% endif %}.
-      </li>
-    {% endfor %}
-  </ul>
-{% endfor %}
+            {% if item.venue %}, <em>{{ item.venue }}</em>{% endif %}.
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+  {% endfor %}
+</div>
