@@ -9,18 +9,18 @@ redirect_from:
 <div class="about-wrap">
   <div class="about-text">
     <p>
-      Welcome! I am a **climate scientist** currently working as a <a href="https://www.st-andrews.ac.uk/earth-sciences/people/rj90/" target="_blank" rel="noopener noreferrer">postdoctoral research fellow</a> in the Climate Dynamics Lab at the School of Earth and Environmental Sciences, University of St Andrews in Scotland, UK.
+      Welcome! I am a <strong>climate scientist</strong> currently working as a <a href="https://www.st-andrews.ac.uk/earth-sciences/people/rj90/" target="_blank" rel="noopener noreferrer">postdoctoral research fellow</a> in the Climate Dynamics Lab at the School of Earth and Environmental Sciences, University of St Andrews in Scotland, UK.
     </p>
 
     <p>
-      I completed my **PhD in Climate Science** from the
+      I completed my <strong>PhD in Climate Science</strong> from the
       <a href="https://www.climate.iitb.ac.in/" target="_blank" rel="noopener noreferrer">
       Centre for Climate Studies</a> at the Indian Institute of Technology (IIT) Bombay,
       fully funded by the <a href="https://www.daad.in/en/find-funding/cooperation-programmes-and-funding-south-asia/" target="_blank" rel="noopener noreferrer">DAAD In-Region Scholarship Programme South Asia</a>. Before that, I completed a
-      **Master of Technology in Water Resources Engineering** from the 
+      <strong>Master of Technology in Water Resources Engineering</strong> from the 
       <a href="https://www.civil.iitb.ac.in/" target="_blank" rel="noopener noreferrer">
       Department of Civil Engineering</a> at IIT Bombay with funding support from a <a href="https://www.daad.in/en/find-funding/cooperation-programmes-and-funding-south-asia/" target="_blank" rel="noopener noreferrer">DAAD Regional Scholarship South Asia</a>,
-      and a **Bachelor of Technology in Civil Engineering** from the
+      and a <strong>Bachelor of Technology in Civil Engineering</strong> from the
       <a href="https://www.keralauniversity.ac.in/" target="_blank" rel="noopener noreferrer">
       University of Kerala</a>, supported by the <a href="https://www.indembkathmandu.gov.in/complex" target="_blank" rel="noopener noreferrer">COMPEX Nepal Scholarship Scheme</a>,
       from the Government of India through Embassy of India in Kathmandu, Nepal.
