@@ -70,3 +70,32 @@
   text-align: center;
   color: #666;
 }
+
+.teaching-detail {
+  font-family: inherit;
+  font-size: 1em;
+  line-height: 1.6;
+}
+
+.teaching-detail p {
+  font-size: 1em;
+  line-height: 1.6;
+  text-align: left;
+}
+
+@media (min-width: 768px) {
+  .teaching-detail p {
+    text-align: justify;
+  }
+}
+
+.teaching-detail h2 {
+  font-size: 1.25em;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+.teaching-detail a {
+  font-size: inherit;
+}
+
