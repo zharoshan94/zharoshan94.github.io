@@ -1,18 +1,25 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<embed
+  src="{{ site.baseurl }}/files/cv.pdf"
+  type="application/pdf"
+  width="100%"
+  height="1000px"
+/>
 
-<div class="cv-download-links">
-  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
-</div>
-
-<br>
-
-<embed src="{{ base_path }}/files/cv.pdf" width="100%" height="1000px" type="application/pdf">
+<p style="margin-top: 1.5rem;">
+  <a
+    href="{{ site.baseurl }}/files/cv.pdf"
+    class="btn btn--primary btn--large"
+    download
+  >
+    Download Curriculum Vitae as PDF
+  </a>
+</p>
