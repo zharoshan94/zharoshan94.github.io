@@ -9,7 +9,7 @@ redirect_from:
 <div class="about-wrap">
   <div class="about-text">
     <p>
-      Welcome! I am a climate scientist currently working as a <a href="https://www.st-andrews.ac.uk/earth-sciences/people/rj90/" target="_blank" rel="noopener noreferrer">postdoctoral research fellow</a> in the Climate Dynamics Lab at the School of Earth and Environmental Sciences, University of St Andrews.
+      Welcome! I am a climate scientist currently working as a <a href="https://www.st-andrews.ac.uk/earth-sciences/people/rj90/" target="_blank" rel="noopener noreferrer">postdoctoral research fellow</a> in the Climate Dynamics Lab at the School of Earth and Environmental Sciences, University of St Andrews in Scotland, UK.
     </p>
 
     <p>
