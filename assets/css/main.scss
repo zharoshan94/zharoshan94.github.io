@@ -38,29 +38,83 @@
     "layout/json_cv"
 ;
 .about-wrap {
-  max-width: 900px;
+  width: 100%;
 }
 
 .about-text {
-  max-width: 900px;
-  margin-bottom: 1.5rem;
+  width: 100%;
+  margin-bottom: 0;
 }
 
 .about-text p {
   text-align: justify;
+  hyphens: auto;
+  line-height: 1.75;
+  margin: 0 0 1rem;
+}
+
+.about-text a,
+.about-text a:hover,
+.about-text a:focus,
+.about-text a:visited {
+  color: inherit;
+}
+
+.about-lead {
+  font-size: 1.05rem;
+  line-height: 1.75;
+}
+
+.about-text h2 {
+  margin-top: 1.6rem;
+  margin-bottom: 0.8rem;
+  font-size: 1.25rem;
+}
+
+.about-education {
+  margin: 0 0 1.2rem;
+  padding-left: 1.25rem;
+}
+
+.about-education li {
+  margin-bottom: 0.85rem;
+  line-height: 1.7;
+}
+
+.about-summary {
+  margin-top: 1rem;
+  padding: 1rem 1.1rem;
+  border-left: 4px solid #123b5d;
+  background: #f7fbfd;
+  border-radius: 10px;
 }
 
 .about-intro {
+  width: 100%;
+  max-width: none;
+  margin: 1.25rem auto 0;
   text-align: center;
 }
 
+@media (min-width: 1024px) {
+  .about-wrap {
+    display: block;
+  }
+
+  .about-intro {
+    width: 100%;
+    margin-top: 1.5rem;
+    margin-right: auto;
+  }
+}
+
 .about-image {
-  width: 100%;
-  max-width: 900px;
+  width: min(100%, 900px);
+  max-width: none;
   height: auto;
   display: block;
   margin: 0 auto;
-  border-radius: 12px;
+  border-radius: 16px;
 }
 
 .about-caption {
@@ -99,65 +153,140 @@
   font-size: inherit;
 }
 
-/* Roshan Jha website colour theme */
+.projects-page {
+  width: 100%;
+}
 
-/* Main page background */
+.project-entry {
+  margin-bottom: 2.5rem;
+}
+
+.project-entry h2 {
+  margin-top: 0;
+  margin-bottom: 0.85rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid var(--global-border-color);
+  font-size: 1.25em;
+}
+
+.project-entry p {
+  margin: 0 0 1rem;
+  line-height: 1.75;
+  text-align: justify;
+  hyphens: auto;
+}
+
+.project-publications {
+  margin-top: 1rem;
+}
+
+.project-publications h3 {
+  margin: 0 0 0.6rem;
+  font-size: 1rem;
+}
+
+.project-publications ul {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.project-publications li {
+  margin-bottom: 0.6rem;
+  line-height: 1.65;
+}
+
+.project-media-placeholder {
+  display: grid;
+  place-items: center;
+  width: 100%;
+  min-height: 220px;
+  margin: 0 0 1rem;
+  border: 1.5px dashed #9bb9c5;
+  border-radius: 16px;
+  background: linear-gradient(180deg, #f8fcfd 0%, #eef6f8 100%);
+  color: #56707b;
+  font-size: 0.95rem;
+}
+
+.project-media-image {
+  display: block;
+  width: min(100%, 700px);
+  height: auto;
+  margin: 0 auto 1rem;
+  border-radius: 16px;
+}
+
+/* Website colour theme */
+
+/* White main page background */
 html,
 body,
 .initial-content,
 .page {
-  background-color: #eaf5fa;
+  background-color: #ffffff;
 }
 
-/* Dark-blue navigation bar */
+/* Same navy-blue colour for header and footer */
+.masthead,
+.masthead__inner-wrap,
+.masthead__menu,
+.greedy-nav,
+.greedy-nav .visible-links,
+.greedy-nav .visible-links li,
+.masthead__menu-item,
+.page__footer {
+  background-color: #123b5d !important;
+}
+
+/* Header divider */
 .masthead {
-  background-color: #123b5d;
   border-bottom: 1px solid #0d2d47;
 }
 
-.masthead__inner-wrap {
-  background-color: #123b5d;
-}
-
-/* Navigation name and links */
-.masthead__menu-item,
-.masthead__menu-item a,
-.greedy-nav,
+/* Navigation text */
 .greedy-nav a,
-.greedy-nav .site-title {
-  color: #ffffff;
+.greedy-nav .site-title,
+.masthead__menu-item,
+.masthead__menu-item a {
+  color: #ffffff !important;
 }
 
-/* Active navigation item and hover */
+/* Hover and currently selected page */
 .greedy-nav a:hover,
 .greedy-nav a:focus {
-  color: #bfe7f3;
+  color: #bfe7f3 !important;
 }
 
 .greedy-nav .visible-links a::before {
-  background: #76c5db;
+  background-color: #76c5db !important;
 }
 
-/* Mobile navigation menu */
-.greedy-nav .hidden-links {
-  background: #123b5d;
-  border-color: #0d2d47;
+/* Three-dot mobile-menu button */
+.greedy-nav button {
+  background-color: #123b5d !important;
+  color: #ffffff !important;
+}
+
+/* Collapsed mobile-menu links */
+.greedy-nav .hidden-links,
+.greedy-nav .hidden-links li {
+  background-color: #123b5d !important;
+  border-color: #0d2d47 !important;
 }
 
 .greedy-nav .hidden-links a {
-  color: #ffffff;
+  color: #ffffff !important;
 }
 
 .greedy-nav .hidden-links a:hover {
-  background-color: #1a5278;
-  color: #bfe7f3;
+  background-color: #1a5278 !important;
+  color: #bfe7f3 !important;
 }
 
-/* Footer: muted ocean-blue */
+/* Footer links and text */
 .page__footer {
-  background-color: #1d5f73;
-  color: #eaf5fa;
-  border-top: 1px solid #174b5c;
+  color: #dceff5;
+  border-top: 1px solid #0d2d47;
 }
 
 .page__footer a {
@@ -168,8 +297,14 @@ body,
   color: #ffffff;
 }
 
-/* Footer copyright and view counter */
+/* Make copyright and view count exactly the same size */
 .page__footer-copyright,
 .site-views {
-  color: #d2e7ee;
+  color: #dceff5;
+  font-size: 0.6875em;
+  line-height: 1.5;
+}
+
+.site-views {
+  margin-top: 0.25rem;
 }

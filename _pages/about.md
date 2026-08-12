@@ -9,29 +9,31 @@ redirect_from:
 <div class="about-wrap">
   <div class="about-text">
     <p>
-      Hi! I am a climate scientist with particular interest in
-      <strong>hydroclimatic extremes (heatwaves, extreme rainfall, floods)</strong>.
-      I use observations/reanalysis, climate models as well as statistics/ML/DL to
-      understand these hydroclimate extremes in a changing climate. I am currently a
-      <a href="https://www.st-andrews.ac.uk/earth-sciences/people/rj90/"
-      target="_blank" rel="noopener noreferrer">Postdoctoral Research Fellow</a>
-      at the University of St Andrews, United Kingdom.
+      I am a postdoctoral research fellow in the Climate Dynamics Lab at the
+      <a href="https://www.st-andrews.ac.uk/earth-sciences/people/rj90/" target="_blank" rel="noopener noreferrer">
+      School of Earth and Environmental Sciences</a>, University of St Andrews, having completed my PhD in Climate Science at
+      the Indian Institute of Technology Bombay in August 2025.
     </p>
 
     <p>
-      I earned my <strong>PhD in Climate Science</strong> from the
+      I earned my PhD in Climate Science from the
       <a href="https://www.climate.iitb.ac.in/" target="_blank" rel="noopener noreferrer">
       Centre for Climate Studies</a> at the Indian Institute of Technology (IIT) Bombay,
-      supported by the <strong>DAAD In-Region Scholarship</strong>. Prior to this, I completed my
-      <strong>Masters in Water Resources Engineering</strong> from the Department of
-      Civil Engineering at IIT Bombay, also as a <strong>DAAD Regional Scholar</strong>,
-      and earned my <strong>Bachelors in Civil Engineering</strong> from the University
-      of Kerala under the <strong>Nepal Aid Scholarship</strong> from the Indian Government.
-      My academic journey reflects a progression in scale and complexity – starting from
-      foundational civil engineering, transitioning into hydrology and water resource
-      management, and ultimately expanding into global climate science to understand the
-      factors driving hydroclimatic extremes under climate change.
+      supported by the <a href="https://www.daad.in/en/find-funding/cooperation-programmes-and-funding-south-asia/" target="_blank" rel="noopener noreferrer">DAAD In-Region Scholarship Programme South Asia</a>. Before that, I completed a
+      Master of Technology in Water Resources Engineering from the Department of
+      <a href="https://www.civil.iitb.ac.in/" target="_blank" rel="noopener noreferrer">
+      Civil Engineering</a> at IIT Bombay with support as a <a href="https://www.daad.in/en/find-funding/cooperation-programmes-and-funding-south-asia/" target="_blank" rel="noopener noreferrer">DAAD Regional Scholarship South Asia</a>,
+      and a Bachelor of Technology in Civil Engineering from the
+      <a href="https://www.keralauniversity.ac.in/" target="_blank" rel="noopener noreferrer">
+      University of Kerala</a>, supported by the <a href="https://www.indembkathmandu.gov.in/complex" target="_blank" rel="noopener noreferrer">COMPEX Nepal Scholarship Scheme</a>,
+      provided by the Embassy of India in Kathmandu.
     </p>
+
+    <p>
+      My research in hydrology and climate science advances understanding of hydroclimatic extremes by
+      examining their characterization, underlying physical drivers, and projected responses to climate change.
+    </p>
+
   </div>
 
   <div class="about-intro">

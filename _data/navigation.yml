@@ -11,11 +11,17 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Projects"
+    url: /projects/
+
   # - title: "Talks"
   #   url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Outreach"
+    url: /news-media/
     
   # - title: "Portfolio"
   #   url: /portfolio/
