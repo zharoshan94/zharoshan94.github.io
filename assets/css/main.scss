@@ -300,6 +300,73 @@
   line-height: 1.65;
 }
 
+.forecast-page {
+  width: 100%;
+}
+
+.forecast-intro {
+  border-left: 4px solid #d45b45;
+  margin-bottom: 1.5rem;
+  padding: 0.1rem 0 0.1rem 1rem;
+}
+
+.forecast-kicker {
+  color: #2f7f9f;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  margin-bottom: 0.35rem;
+  text-transform: uppercase;
+}
+
+.forecast-intro h2 {
+  margin: 0 0 0.6rem;
+  font-size: 1.35em;
+}
+
+.forecast-intro p {
+  line-height: 1.65;
+  margin-bottom: 0.6rem;
+}
+
+.forecast-meta {
+  color: #5b6f77;
+  font-size: 0.9rem;
+}
+
+.forecast-status {
+  background: #f7fbfc;
+  border: 1px solid #d9e7eb;
+  color: #36545e;
+  padding: 0.75rem 1rem;
+}
+
+.forecast-chart {
+  min-height: 440px;
+  margin: 1rem 0 2rem;
+}
+
+.forecast-notes {
+  border-top: 1px solid var(--global-border-color);
+  padding-top: 1rem;
+}
+
+.forecast-notes h3 {
+  font-size: 1rem;
+  margin: 0 0 0.5rem;
+}
+
+.forecast-notes p {
+  font-size: 0.9rem;
+  line-height: 1.65;
+}
+
+@media (max-width: 600px) {
+  .forecast-chart {
+    min-height: 520px;
+  }
+}
+
 /* Website colour theme */
 
 /* White main page background */

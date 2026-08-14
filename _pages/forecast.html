@@ -1,0 +1,46 @@
+---
+layout: archive
+title: "Forecast"
+permalink: /forecast/
+author_profile: true
+---
+
+{% include base_path %}
+
+<div class="forecast-page" data-forecast-root>
+  <section class="forecast-intro">
+    <p class="forecast-kicker">ECMWF IFS 0.25°</p>
+    <h2>Hourly forecast for Kathmandu, Nepal</h2>
+    <p>
+      The chart shows the latest available seven-day ECMWF forecast for 2-metre air temperature
+      and precipitation at the Kathmandu reference point.
+    </p>
+    <p class="forecast-meta">
+      Reference point: 27.7172°N, 85.3240°E · Times shown in Nepal Standard Time
+    </p>
+  </section>
+
+  <div class="forecast-status" data-forecast-status role="status" aria-live="polite">
+    Loading the latest forecast...
+  </div>
+
+  <div class="forecast-chart" data-forecast-chart aria-label="Hourly Kathmandu forecast chart"></div>
+
+  <section class="forecast-notes">
+    <h3>Data and method</h3>
+    <p>
+      ECMWF Open Data publishes the source fields <code>2t</code> and <code>tprate</code> in GRIB2 format.
+      This page uses the browser-readable ECMWF IFS 0.25° feed from Open-Meteo; precipitation rate is
+      calculated from its hourly precipitation increments so the display remains available on this static site.
+    </p>
+    <p>
+      <a href="https://www.ecmwf.int/en/forecasts/datasets/open-data" target="_blank" rel="noopener noreferrer">
+        ECMWF Open Data documentation
+      </a>
+      ·
+      <a href="https://open-meteo.com/en/docs/ecmwf-api" target="_blank" rel="noopener noreferrer">
+        ECMWF IFS API details
+      </a>
+    </p>
+  </section>
+</div>
